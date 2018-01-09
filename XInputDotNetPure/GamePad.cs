@@ -211,6 +211,7 @@ namespace XInputDotNetPure
                 public short sThumbLY;
                 public short sThumbRX;
                 public short sThumbRY;
+                public uint dwPaddingReserved;
             }
         }
 
